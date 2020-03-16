@@ -1,0 +1,124 @@
+Running slack-cleaner v0.6.2
+Deleting messages from channel general
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (invalid_arguments)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+[33mFailed to delete (429 Client Error: Too Many Requests for url: https://slack.com/api/chat.delete?token=xoxb-351378025990-985503461604-I0HsIhVAGtYGyGVR4kBPsZhZ)->[39m
+
+[32m0[39m message(s) cleaned.
+
